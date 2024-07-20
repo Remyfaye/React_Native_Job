@@ -14,8 +14,8 @@ const HeaderBtn = () => {
       }}
     >
       <TopButton text="All stocks" secondary />
-      <TopButton text="All stocks" />
-      <TopButton text="All stocks" />
+      <TopButton text="Low stock" />
+      <TopButton text="Expired" />
     </View>
   );
 };
